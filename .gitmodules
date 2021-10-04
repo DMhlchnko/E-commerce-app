@@ -1,0 +1,6 @@
+[submodule "Core"]
+	path = Core
+	url = https://github.com/DMhlchnko/Core
+[submodule "Infrastructure"]
+	path = Infrastructure
+	url = https://github.com/DMhlchnko/Infrastructure
